@@ -1,4 +1,4 @@
-# QuantifierEliminationOverTheIntegers
+# IntegerHull
 
 The **IntegerHull** package is written in [Maple](https://www.maplesoft.com/) and implements a new algorithm for computing the **integer hull** of a rational polyhedral set. It provides:
 
