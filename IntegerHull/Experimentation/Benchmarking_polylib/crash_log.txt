@@ -1,0 +1,124 @@
+Crash detected for file: Input/convex12.polylib.2
+Method: IntegerHull
+Mode: newmethod
+Error, (in UnboundToBound) invalid subscript selector
+------------------------------------
+Crash detected for file: Input/convex12.polylib.3
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-RelationsConstructor) if there are no
+Error, (in DoUsage) invalid input: PolyhedralSets:-IntegerHull expects its 1st
+------------------------------------
+Crash detected for file: Input/convex13.polylib.3
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-ModuleCopy) the constructor expects a
+------------------------------------
+Crash detected for file: Input/convex15.polylib.1
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-ModuleCopy) the constructor expects a
+------------------------------------
+Crash detected for file: Input/convex15.polylib.2
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-ModuleCopy) the constructor expects a
+------------------------------------
+Crash detected for file: Input/convex15.polylib.3
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-ModuleCopy) the constructor expects a
+------------------------------------
+Crash detected for file: Input/convex2.polylib.1
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-ModuleCopy) the constructor expects a
+------------------------------------
+Crash detected for file: Input/convex2.polylib.2
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-ModuleCopy) the constructor expects a
+------------------------------------
+Crash detected for file: Input/convex2.polylib.3
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-ModuleCopy) the constructor expects a
+------------------------------------
+Crash detected for file: Input/convex3.polylib.1
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-RelationsConstructor) if there are no
+Error, (in DoUsage) invalid input: PolyhedralSets:-IntegerHull expects its 1st
+------------------------------------
+Crash detected for file: Input/convex3.polylib.3
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-RelationsConstructor) if there are no
+Error, (in DoUsage) invalid input: PolyhedralSets:-IntegerHull expects its 1st
+------------------------------------
+Crash detected for file: Input/convex4.polylib.1
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-RelationsConstructor) if there are no
+Error, (in DoUsage) invalid input: PolyhedralSets:-IntegerHull expects its 1st
+------------------------------------
+Crash detected for file: Input/convex4.polylib.2
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-IntegerHull) input must be at least two-dimensional
+------------------------------------
+Crash detected for file: Input/convex4.polylib.3
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-RelationsConstructor) if there are no
+Error, (in DoUsage) invalid input: PolyhedralSets:-IntegerHull expects its 1st
+------------------------------------
+Crash detected for file: Input/convex5.polylib.1
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-IntegerHull) input must be at least two-dimensional
+------------------------------------
+Crash detected for file: Input/convex5.polylib.2
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-IntegerHull) input must be at least two-dimensional
+------------------------------------
+Crash detected for file: Input/convex7.polylib.1
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-RelationsConstructor) if there are no
+Error, (in DoUsage) invalid input: PolyhedralSets:-IntegerHull expects its 1st
+------------------------------------
+Crash detected for file: Input/convex7.polylib.2
+Method: IntegerHull
+Mode: newmethod
+Error, (in IntegerHull2D) This result can only be given in PolyhedralSet
+------------------------------------
+Crash detected for file: Input/convex7.polylib.3
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-RelationsConstructor) if there are no
+Error, (in DoUsage) invalid input: PolyhedralSets:-IntegerHull expects its 1st
+------------------------------------
+Crash detected for file: Input/convex8.polylib.1
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-ModuleCopy) the constructor expects a
+------------------------------------
+Crash detected for file: Input/convex8.polylib.2
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-PolyhedralSet:-Graph) assertion failed in assignment
+------------------------------------
+Crash detected for file: Input/convex8.polylib.3
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-NearestIntegerPointsOnFacets) unable to decide a
+Error, (in PolyhedralSets:-NearestIntegerPointsOnFacets) unable to decide a
+Error, (in lMap) invalid input: op expects 1 or 2 arguments, but received 0
+------------------------------------
+Crash detected for file: Input/convex9.polylib.2
+Method: IntegerHull
+Mode: newmethod
+Error, (in PolyhedralSets:-IntegerHull) input must be at least two-dimensional
+------------------------------------

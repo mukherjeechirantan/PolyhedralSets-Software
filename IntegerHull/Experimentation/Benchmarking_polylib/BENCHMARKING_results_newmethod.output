@@ -1,0 +1,87 @@
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex10.polylib.1",
+
+    "is", 0.023, 5765184
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex10.polylib.2",
+
+    "is", 0.043, 11119416
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex10.polylib.3",
+
+    "is", 0.050, 10735824
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex11.polylib.1",
+
+    "is", 0.021, 5241752
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex11.polylib.2",
+
+    "is", 0.021, 5399840
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex11.polylib.3",
+
+    "is", 0.020, 5201296
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex12.polylib.1",
+
+    "is", 0.020, 4742696
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex13.polylib.1",
+
+    "is", 0.021, 5193776
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex13.polylib.2",
+
+    "is", 0.018, 4725592
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex14.polylib.1",
+
+    "is", 0.011, 3433624
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex14.polylib.2",
+
+    "is", 0.019, 4255296
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex14.polylib.3",
+
+    "is", 0.020, 4493000
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex1.polylib.1",
+
+    "is", 0.039, 9670528
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex1.polylib.2",
+
+    "is", 0.023, 5384592
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex1.polylib.3",
+
+    "is", 0.021, 5036016
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex3.polylib.2",
+
+    "is", 0.022, 5512392
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex5.polylib.3",
+
+    "is", 0.011, 3470664
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex6.polylib.1",
+
+    "is", 0.023, 5322432
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex6.polylib.2",
+
+    "is", 0.021, 4976672
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex6.polylib.3",
+
+    "is", 0.099, 17628264
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex9.polylib.1",
+
+    "is", 0.027, 5570976
+--
+"Time for IntegerHull(mode=newmethod) for test", "Input/convex9.polylib.3",
+
+    "is", 0.019, 4257008
