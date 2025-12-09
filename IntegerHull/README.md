@@ -21,7 +21,7 @@ Note that `<path>` should be replaced with the full path to where `master.mla` i
 In addition to installing the package, you also need to have Maple installed to view the demo. You can download Maple from their [official website](https://www.maplesoft.com/).
 
 ## Usage and Documentation
-This package can be loaded in Maple by using `with(IntegerHull);`. This command also displays all available functions.
+This package can be loaded in Maple by using `with(PolyhedralSets);`. This command also displays all available functions.
 
 Compute the integer hull using the new algorithm: `IntegerHull(P, mode = newmethod);`
 
