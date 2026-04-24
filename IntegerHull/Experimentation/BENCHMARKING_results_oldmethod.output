@@ -1,418 +1,419 @@
-          "oldmethod time for", "Input/big_empty_deg1.in", "is", 0.246
+          "oldmethod time for", "Input/big_empty_deg1.in", "is", 0.456
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        3    0.194    77.54      35034000    78.76
-FacetIntegerHull       2        2    0.053    22.46       9374840    21.07
+VerticesAndRays        1        3    0.367    80.31      35034760    78.76
+FacetIntegerHull       2        2    0.089    19.47       9372592    21.07
+IntegerHull            1        1    0.001     0.22         75280     0.17
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
-IntegerHull            1        1    0.000     0.00         75344     0.17
 ConvexHull             0        0    0.000     0.00             0     0.00
 ---------------------------------------------------------------------------
-total:                 4        6    0.247   100.00      44484184   100.00
+total:                 4        6    0.457   100.00      44482632   100.00
 --
-              "oldmethod time for", "Input/cube_3.in", "is", 0.248
+              "oldmethod time for", "Input/cube3.ine", "is", 0.605
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1       13    0.215    86.69      35761056    91.78
-IntegerHull            1        1    0.029    11.69       3165608     8.12
-ConvexHull             1        1    0.004     1.61         37152     0.10
+VerticesAndRays        1       13    0.497    82.01      52815136    93.79
+IntegerHull            1        1    0.097    16.01       3403688     6.04
+ConvexHull             1        1    0.012     1.98         94008     0.17
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
 ---------------------------------------------------------------------------
-total:                 3       15    0.248   100.00      38963816   100.00
+total:                 3       15    0.606   100.00      56312832   100.00
 --
-             "oldmethod time for", "Input/cubocta.ine", "is", 1.496
+             "oldmethod time for", "Input/cubocta.ine", "is", 4.278
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1       25    1.202     0.00     221570504     0.00
-ConvexHull             1        1    0.008     0.00         94048     0.00
-triangle_convex_hull      0        0    0.000     0.00             0     0.00
-replaceRationalVertices      0        0    0.000     0.00             0     0.00
-replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
-FacetIntegerHull       0        0    0.000     0.00             0     0.00
-IntegerHull2D          0        0    0.000     0.00             0     0.00
-IntegerHull            2        2   -1.166     0.00    -221664552     0.00
----------------------------------------------------------------------------
-total:                 4       28    0.000     0.00             0     0.00
---
-           "oldmethod time for", "Input/cyclic10-4.ext", "is", 3.766
-
-function           depth    calls     time    time%         bytes   bytes%
----------------------------------------------------------------------------
-VerticesAndRays        1       25    3.434     0.00     554605256     0.00
-triangle_convex_hull      0        0    0.000     0.00             0     0.00
-replaceRationalVertices      0        0    0.000     0.00             0     0.00
-replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
-FacetIntegerHull       0        0    0.000     0.00             0     0.00
-IntegerHull2D          0        0    0.000     0.00             0     0.00
-ConvexHull             1        2    0.000     0.00         33376     0.00
-IntegerHull            1        1   -3.434     0.00    -554638632     0.00
----------------------------------------------------------------------------
-total:                 3       28    0.000     0.00             0     0.00
---
-    "oldmethod time for", "Input/dodecahedron-v.IntHull.ref.1", "is", 0.717
-
-function           depth    calls     time    time%         bytes   bytes%
----------------------------------------------------------------------------
-VerticesAndRays        1       13    0.545     0.00      71008448     0.00
-ConvexHull             1        2    0.001     0.00         31360     0.00
-triangle_convex_hull      0        0    0.000     0.00             0     0.00
-replaceRationalVertices      0        0    0.000     0.00             0     0.00
-replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
-FacetIntegerHull       0        0    0.000     0.00             0     0.00
-IntegerHull2D          0        0    0.000     0.00             0     0.00
-IntegerHull            1        1   -0.546     0.00     -71039808     0.00
----------------------------------------------------------------------------
-total:                 3       16    0.000     0.00             0     0.00
---
-    "oldmethod time for", "Input/dodecahedron-v.IntHull.ref.2", "is", 0.609
-
-VerticesAndRays        1       13    0.517    84.89      80316144    85.46
-IntegerHull            1        1    0.088    14.45      13565248    14.43
-ConvexHull             1        1    0.004     0.66         96872     0.10
+VerticesAndRays        1       25    3.614    84.48     212627472    84.10
+IntegerHull            1        1    0.655    15.31      40113104    15.87
+ConvexHull             1        1    0.009     0.21         94952     0.04
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
 ---------------------------------------------------------------------------
-total:                 3       15    0.609   100.00      93978264   100.00
+total:                 3       27    4.278   100.00     252835528   100.00
 --
-                "oldmethod time for", "Input/e0.in", "is", 0.042
+           "oldmethod time for", "Input/cyclic10-4.ext", "is", 6.895
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        2    0.022    51.16       3464432    53.90
-FacetIntegerHull       1        1    0.020    46.51       2890256    44.97
-IntegerHull            1        1    0.001     2.33         13024     0.20
+VerticesAndRays        1       25    6.186    89.70     554915944    88.98
+IntegerHull            1        1    0.709    10.28      68723728    11.02
+ConvexHull             1        1    0.001     0.01         16720     0.00
+triangle_convex_hull      0        0    0.000     0.00             0     0.00
+replaceRationalVertices      0        0    0.000     0.00             0     0.00
+replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
+FacetIntegerHull       0        0    0.000     0.00             0     0.00
+IntegerHull2D          0        0    0.000     0.00             0     0.00
+---------------------------------------------------------------------------
+total:                 3       27    6.896   100.00     623656392   100.00
+--
+    "oldmethod time for", "Input/dodecahedron-v.IntHull.ref.1", "is", 1.032
+
+function           depth    calls     time    time%         bytes   bytes%
+---------------------------------------------------------------------------
+VerticesAndRays        1       13    0.867    83.93      76521704    84.89
+IntegerHull            1        1    0.165    15.97      13599856    15.09
+ConvexHull             1        1    0.001     0.10         15832     0.02
+triangle_convex_hull      0        0    0.000     0.00             0     0.00
+replaceRationalVertices      0        0    0.000     0.00             0     0.00
+replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
+FacetIntegerHull       0        0    0.000     0.00             0     0.00
+IntegerHull2D          0        0    0.000     0.00             0     0.00
+---------------------------------------------------------------------------
+total:                 3       15    1.033   100.00      90137392   100.00
+--
+    "oldmethod time for", "Input/dodecahedron-v.IntHull.ref.2", "is", 0.979
+
+function           depth    calls     time    time%         bytes   bytes%
+---------------------------------------------------------------------------
+VerticesAndRays        1       13    0.805    82.14      78432000    85.11
+IntegerHull            1        1    0.166    16.94      13633024    14.79
+ConvexHull             1        1    0.009     0.92         93552     0.10
+triangle_convex_hull      0        0    0.000     0.00             0     0.00
+replaceRationalVertices      0        0    0.000     0.00             0     0.00
+replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
+FacetIntegerHull       0        0    0.000     0.00             0     0.00
+IntegerHull2D          0        0    0.000     0.00             0     0.00
+---------------------------------------------------------------------------
+total:                 3       15    0.980   100.00      92158576   100.00
+--
+                "oldmethod time for", "Input/e0.in", "is", 0.076
+
+function           depth    calls     time    time%         bytes   bytes%
+---------------------------------------------------------------------------
+VerticesAndRays        1        2    0.040    52.63       5731784    51.92
+FacetIntegerHull       1        1    0.034    44.74       5160512    46.74
+IntegerHull2D          1        1    0.001     1.32         75688     0.69
+IntegerHull            1        1    0.001     1.32         71688     0.65
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      1        1    0.000     0.00           824     0.01
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
-IntegerHull2D          1        1    0.000     0.00         59232     0.92
 ConvexHull             0        0    0.000     0.00             0     0.00
 ---------------------------------------------------------------------------
-total:                 5        6    0.043   100.00       6427768   100.00
+total:                 5        6    0.076   100.00      11040496   100.00
 --
-            "oldmethod time for", "Input/hexocta.ine", "is", 23.279
+            "oldmethod time for", "Input/hexocta.ine", "is", 38.772
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1       73   22.020    94.59    3565164448    93.71
-IntegerHull            1        1    1.259     5.41     239161624     6.29
-triangle_convex_hull      0        0    0.000     0.00             0     0.00
-replaceRationalVertices      0        0    0.000     0.00             0     0.00
-replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
-FacetIntegerHull       0        0    0.000     0.00             0     0.00
-IntegerHull2D          0        0    0.000     0.00             0     0.00
-ConvexHull             1        1    0.000     0.00         15664     0.00
----------------------------------------------------------------------------
-total:                 3       75   23.279   100.00    3804341736   100.00
---
-           "oldmethod time for", "Input/InhomIneqIH.in", "is", 0.052
-
-function           depth    calls     time    time%         bytes   bytes%
----------------------------------------------------------------------------
-VerticesAndRays        1        1    0.051    98.08       8133408    97.64
-replaceRationalVertices      1        1    0.001     1.92         10936     0.13
-triangle_convex_hull      1        2    0.000     0.00         47736     0.57
-replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
-FacetIntegerHull       0        0    0.000     0.00             0     0.00
-IntegerHull2D          1        1    0.000     0.00        104768     1.26
-IntegerHull            1        1    0.000     0.00         32960     0.40
-ConvexHull             0        0    0.000     0.00             0     0.00
----------------------------------------------------------------------------
-total:                 5        6    0.052   100.00       8329808   100.00
---
-            "oldmethod time for", "Input/irbox20-4.ext", "is", 6.697
-
-function           depth    calls     time    time%         bytes   bytes%
----------------------------------------------------------------------------
-VerticesAndRays        1       37    6.250    93.33     952478792    92.09
-IntegerHull            1        1    0.446     6.66      81727992     7.90
-ConvexHull             1        2    0.001     0.01         35840     0.00
+VerticesAndRays        1       73   36.315    93.66    3532899752    93.64
+IntegerHull            1        1    2.448     6.31     240009056     6.36
+ConvexHull             1        1    0.010     0.03         92440     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
 ---------------------------------------------------------------------------
-total:                 3       40    6.697   100.00    1034242624   100.00
+total:                 3       75   38.773   100.00    3773001248   100.00
 --
-               "oldmethod time for", "Input/isIC.in", "is", 0.204
+           "oldmethod time for", "Input/InhomIneqIH.in", "is", 0.068
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        2    0.162    79.41      33063344    83.67
-FacetIntegerHull       1        1    0.039    19.12       6015648    15.22
-replaceNonIntegerFacets      1        1    0.002     0.98        313112     0.79
-IntegerHull            1        1    0.001     0.49         74720     0.19
+VerticesAndRays        1        1    0.066    95.65       9239792    97.81
+IntegerHull2D          1        1    0.001     1.45        104264     1.10
+triangle_convex_hull      1        2    0.001     1.45         58976     0.62
+IntegerHull            1        1    0.001     1.45         32888     0.35
+replaceRationalVertices      1        1    0.000     0.00         10968     0.12
+replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
+FacetIntegerHull       0        0    0.000     0.00             0     0.00
+ConvexHull             0        0    0.000     0.00             0     0.00
+---------------------------------------------------------------------------
+total:                 5        6    0.069   100.00       9446888   100.00
+--
+           "oldmethod time for", "Input/irbox20-4.ext", "is", 11.297
+
+function           depth    calls     time    time%         bytes   bytes%
+---------------------------------------------------------------------------
+VerticesAndRays        1       37   10.352    91.63     961618896    92.09
+IntegerHull            1        1    0.945     8.36      82536368     7.90
+ConvexHull             1        1    0.001     0.01         17744     0.00
+triangle_convex_hull      0        0    0.000     0.00             0     0.00
+replaceRationalVertices      0        0    0.000     0.00             0     0.00
+replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
+FacetIntegerHull       0        0    0.000     0.00             0     0.00
+IntegerHull2D          0        0    0.000     0.00             0     0.00
+---------------------------------------------------------------------------
+total:                 3       39   11.298   100.00    1044173008   100.00
+--
+               "oldmethod time for", "Input/isIC.in", "is", 0.423
+
+function           depth    calls     time    time%         bytes   bytes%
+---------------------------------------------------------------------------
+VerticesAndRays        1        2    0.342    80.85      33049160    83.66
+FacetIntegerHull       1        1    0.076    17.97       6016888    15.23
+replaceNonIntegerFacets      1        1    0.004     0.95        313168     0.79
+IntegerHull            1        1    0.001     0.24         74312     0.19
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      1        1    0.000     0.00           920     0.00
-IntegerHull2D          1        1    0.000     0.00         33080     0.08
+IntegerHull2D          1        1    0.000     0.00         32560     0.08
 ConvexHull             1        1    0.000     0.00         15392     0.04
 ---------------------------------------------------------------------------
-total:                 7        8    0.204   100.00      39516216   100.00
+total:                 7        8    0.423   100.00      39502400   100.00
 --
-           "oldmethod time for", "Input/Kwak10Codim.in", "is", 5.293
+           "oldmethod time for", "Input/Kwak10Codim.in", "is", 8.811
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1       33    4.667     0.00     714165656     0.00
-IntegerHull            1        1    0.622     0.00      79285912     0.00
+VerticesAndRays        1       33    7.905    89.72     724658360    90.07
+IntegerHull            1        1    0.905    10.27      79831336     9.92
+ConvexHull             1        1    0.001     0.01         17976     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
-ConvexHull             1        2   -5.289     0.00    -793451568     0.00
 ---------------------------------------------------------------------------
-total:                 3       36    0.000     0.00             0     0.00
+total:                 3       35    8.811   100.00     804507672   100.00
 --
-           "oldmethod time for", "Input/project1res.ine", "is", 1.972
+           "oldmethod time for", "Input/project1res.ine", "is", 3.570
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1       37    1.868     0.00     290151760     0.00
-IntegerHull            1        1    0.103     0.00      21256680     0.00
+VerticesAndRays        1       37    3.348    93.78     295314592    93.06
+IntegerHull            1        1    0.213     5.97      21925696     6.91
+ConvexHull             1        1    0.009     0.25         97336     0.03
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
-ConvexHull             1        1   -1.971     0.00    -311408440     0.00
 ---------------------------------------------------------------------------
-total:                 3       39    0.000     0.00             0     0.00
+total:                 3       39    3.570   100.00     317337624   100.00
 --
-                "oldmethod time for", "Input/pugh", "is", 17.956
+                "oldmethod time for", "Input/pugh", "is", 28.029
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-IntegerHull            1        1   15.393     0.00    1895000560     0.00
-VerticesAndRays        1       35    2.559     0.00     361923976     0.00
+IntegerHull            1        1   24.041    85.77    2260620488    86.06
+VerticesAndRays        1       35    3.976    14.19     366025128    13.93
+ConvexHull             1        2    0.012     0.04        108992     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
-ConvexHull             1        2  -17.952     0.00   -2256924536     0.00
 ---------------------------------------------------------------------------
-total:                 3       38    0.000     0.00             0     0.00
+total:                 3       38   28.029   100.00    2626754608   100.00
 --
-            "oldmethod time for", "Input/redcheck.ext", "is", 0.057
+            "oldmethod time for", "Input/redcheck.ext", "is", 0.102
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        1    0.055    94.83       9753928    96.50
-replaceNonIntegerFacets      1        1    0.002     3.45        272144     2.69
-IntegerHull            1        1    0.001     1.72         32784     0.32
+VerticesAndRays        1        1    0.100    97.09       9753416    96.50
+replaceNonIntegerFacets      1        1    0.002     1.94        272008     2.69
+IntegerHull2D          1        1    0.001     0.97         32432     0.32
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      1        1    0.000     0.00           896     0.01
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
-IntegerHull2D          1        1    0.000     0.00         32432     0.32
+IntegerHull            1        1    0.000     0.00         32816     0.32
 ConvexHull             1        1    0.000     0.00         15288     0.15
 ---------------------------------------------------------------------------
-total:                 6        6    0.058   100.00      10107472   100.00
+total:                 6        6    0.103   100.00      10106856   100.00
 --
-            "oldmethod time for", "Input/samplelp1.ine", "is", 1.251
+            "oldmethod time for", "Input/samplelp1.ine", "is", 2.353
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1       14    0.959     0.00     161946224     0.00
-FacetIntegerHull       1        1    0.291     0.00      22285736     0.00
+VerticesAndRays        1       14    2.010    85.39     167371240    87.22
+FacetIntegerHull       1        1    0.342    14.53      24423472    12.73
+IntegerHull            1        1    0.001     0.04         80184     0.04
+ConvexHull             1        1    0.001     0.04         16832     0.01
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
-IntegerHull            1        1    0.000     0.00         19976     0.00
-ConvexHull             2        2   -1.250     0.00    -184251936     0.00
 ---------------------------------------------------------------------------
-total:                 5       18    0.000     0.00             0     0.00
+total:                 4       17    2.354   100.00     191891728   100.00
 --
-             "oldmethod time for", "Input/strange.in", "is", 0.846
+             "oldmethod time for", "Input/strange.in", "is", 1.386
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1       11    0.585     0.00      94833392     0.00
-FacetIntegerHull       1        1    0.260     0.00      11982616     0.00
+VerticesAndRays        1       11    1.137    82.03      99860928    87.58
+FacetIntegerHull       1        1    0.248    17.89      14075088    12.34
+IntegerHull            1        1    0.001     0.07         74408     0.07
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
-IntegerHull            1        1    0.000     0.00         14560     0.00
-ConvexHull             2        2   -0.845     0.00    -106830568     0.00
+ConvexHull             1        1    0.000     0.00         16544     0.01
 ---------------------------------------------------------------------------
-total:                 5       15    0.000     0.00             0     0.00
+total:                 4       14    1.386   100.00     114026968   100.00
 --
-                "oldmethod time for", "Input/T41", "is", 20.178
+                "oldmethod time for", "Input/T41", "is", 31.548
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        1   20.080     0.00    2894994888     0.00
-replaceNonIntegerFacets      1        1    0.097     0.00      27189656     0.00
-IntegerHull2D          1        1    0.001     0.00        253704     0.00
+VerticesAndRays        1        1   31.372    99.44    2910882832    99.07
+replaceNonIntegerFacets      1        1    0.173     0.55      26963192     0.92
+IntegerHull2D          1        1    0.001     0.00        269312     0.01
+IntegerHull            1        1    0.001     0.00         73760     0.00
+ConvexHull             1        1    0.001     0.00         17216     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      1        1    0.000     0.00          1928     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
-IntegerHull            1        1    0.000     0.00         44880     0.00
-ConvexHull             1        2  -20.178     0.00   -2922485056     0.00
 ---------------------------------------------------------------------------
-total:                 6        7    0.000     0.00             0     0.00
+total:                 6        6   31.548   100.00    2938208240   100.00
 --
-                 "oldmethod time for", "Input/T44", "is", 9.696
+                "oldmethod time for", "Input/T44", "is", 17.219
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        1    9.628    99.29    1604003000    98.74
-replaceNonIntegerFacets      1        1    0.066     0.68      20106080     1.24
-IntegerHull2D          1        1    0.001     0.01        257672     0.02
-IntegerHull            1        1    0.001     0.01         41152     0.00
-ConvexHull             1        2    0.001     0.01         34240     0.00
+VerticesAndRays        1        1   17.082    99.20    1620967744    98.74
+replaceNonIntegerFacets      1        1    0.133     0.77      20251400     1.23
+IntegerHull2D          1        1    0.003     0.02        272880     0.02
+IntegerHull            1        1    0.001     0.01         69640     0.00
+ConvexHull             1        1    0.001     0.01         16992     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      1        1    0.000     0.00          1808     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 ---------------------------------------------------------------------------
-total:                 6        7    9.697   100.00    1624443952   100.00
+total:                 6        6   17.220   100.00    1641580464   100.00
 --
-                 "oldmethod time for", "Input/T47", "is", 8.854
+                "oldmethod time for", "Input/T47", "is", 14.138
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        1    8.792     0.00    1285721256     0.00
-replaceNonIntegerFacets      1        1    0.059     0.00      16583016     0.00
-IntegerHull2D          1        1    0.001     0.00        225392     0.00
-IntegerHull            1        1    0.001     0.00         38640     0.00
+VerticesAndRays        1        1   14.026    99.20    1302360624    98.71
+replaceNonIntegerFacets      1        1    0.110     0.78      16723848     1.27
+IntegerHull2D          1        1    0.001     0.01        240616     0.02
+IntegerHull            1        1    0.001     0.01         66776     0.01
+ConvexHull             1        1    0.001     0.01         16864     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      1        1    0.000     0.00          1736     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
-ConvexHull             1        2   -8.853     0.00   -1302570040     0.00
 ---------------------------------------------------------------------------
-total:                 6        7    0.000     0.00             0     0.00
+total:                 6        6   14.139   100.00    1319410464   100.00
 --
-                 "oldmethod time for", "Input/T50", "is", 9.775
+                "oldmethod time for", "Input/T50", "is", 15.875
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        1    9.705     0.00    1458142560     0.00
-replaceNonIntegerFacets      1        1    0.069     0.00      18605136     0.00
-IntegerHull            1        1    0.001     0.00         37104     0.00
+VerticesAndRays        1        1   15.751    99.22    1475086680    98.71
+replaceNonIntegerFacets      1        1    0.122     0.77      18889432     1.26
+IntegerHull2D          1        1    0.001     0.01        252416     0.02
+ConvexHull             1        1    0.001     0.01         16952     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      1        1    0.000     0.00          1784     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
-IntegerHull2D          1        1    0.000     0.00        236192     0.00
-ConvexHull             1        2   -9.775     0.00   -1477022776     0.00
+IntegerHull            1        1    0.000     0.00         65656     0.00
 ---------------------------------------------------------------------------
-total:                 6        7    0.000     0.00             0     0.00
-
-                "oldmethod time for", "Input/T53", "is", 14.362
+total:                 6        6   15.875   100.00    1494312920   100.00
+--
+                "oldmethod time for", "Input/T53", "is", 27.138
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        1   14.231    99.09    2541685208    98.62
-replaceNonIntegerFacets      1        1    0.110     0.77      33827272     1.31
-ConvexHull             1        2    0.019     0.13       1324760     0.05
-IntegerHull2D          1        1    0.001     0.01        356064     0.01
-IntegerHull            1        1    0.001     0.01         77120     0.00
+VerticesAndRays        1        1   26.807    98.78    2538551472    98.66
+replaceNonIntegerFacets      1        1    0.328     1.21      34013864     1.32
+IntegerHull2D          1        1    0.002     0.01        354344     0.01
+IntegerHull            1        1    0.001     0.00         77272     0.00
+ConvexHull             1        1    0.001     0.00         17392     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      1        1    0.000     0.00          2024     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 ---------------------------------------------------------------------------
-total:                 6        7   14.362   100.00    2577272448   100.00
+total:                 6        6   27.139   100.00    2573016368   100.00
 --
-                "oldmethod time for", "Input/T56", "is", 19.502
+                "oldmethod time for", "Input/T56", "is", 33.916
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        1   19.273    98.83    3103354200    98.65
-replaceNonIntegerFacets      1        1    0.225     1.15      41993832     1.33
-IntegerHull2D          1        1    0.002     0.01        380016     0.01
-IntegerHull            1        1    0.001     0.01         50680     0.00
-ConvexHull             1        2    0.001     0.01         35784     0.00
+VerticesAndRays        1        1   33.546    98.91    3120220736    98.66
+replaceNonIntegerFacets      1        1    0.366     1.08      41770960     1.32
+IntegerHull2D          1        1    0.002     0.01        394840     0.01
+IntegerHull            1        1    0.001     0.00         79320     0.00
+ConvexHull             1        1    0.001     0.00         17568     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      1        1    0.000     0.00          2120     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 ---------------------------------------------------------------------------
-total:                 6        7   19.502   100.00    3145816632   100.00
+total:                 6        6   33.916   100.00    3162485544   100.00
 --
-                "oldmethod time for", "Input/T61", "is", 13.013
+                "oldmethod time for", "Input/T61", "is", 19.788
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1       47   12.344     0.00    1764527304     0.00
-IntegerHull            1        1    0.668     0.00      69601416     0.00
+VerticesAndRays        1       47   19.022    96.13    1774349160    96.19
+IntegerHull            1        1    0.765     3.87      70183304     3.80
+ConvexHull             1        1    0.001     0.01         20560     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
-ConvexHull             1        2  -13.012     0.00   -1834128720     0.00
 ---------------------------------------------------------------------------
-total:                 3       50    0.000     0.00             0     0.00
+total:                 3       49   19.788   100.00    1844553024   100.00
 --
-                "oldmethod time for", "Input/T62", "is", 12.073
+                "oldmethod time for", "Input/T62", "is", 20.132
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1       47   11.572     0.00    1769806152     0.00
-IntegerHull            1        1    0.501     0.00      68248720     0.00
+VerticesAndRays        1       47   19.253    95.63    1780805032    96.19
+IntegerHull            1        1    0.878     4.36      70440424     3.80
+ConvexHull             1        1    0.001     0.00         20560     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
-ConvexHull             1        2  -12.073     0.00   -1838054872     0.00
 ---------------------------------------------------------------------------
-total:                 3       50    0.000     0.00             0     0.00
+total:                 3       49   20.132   100.00    1851266016   100.00
 --
-                "oldmethod time for", "Input/T63", "is", 12.210
+                "oldmethod time for", "Input/T63", "is", 19.850
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1       47   11.709     0.00    1767037336     0.00
-IntegerHull            1        1    0.500     0.00      67906544     0.00
+VerticesAndRays        1       47   19.082    96.13    1778987688    96.19
+IntegerHull            1        1    0.767     3.86      70458344     3.81
+ConvexHull             1        1    0.001     0.01         20560     0.00
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
-ConvexHull             1        2  -12.209     0.00   -1834943880     0.00
 ---------------------------------------------------------------------------
-total:                 3       50    0.000     0.00             0     0.00
+total:                 3       49   19.850   100.00    1849466592   100.00
 --
-        "oldmethod time for", "Input/ThierryApproximate.in", "is", 0.134
+        "oldmethod time for", "Input/ThierryApproximate.in", "is", 0.271
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        1    0.132    98.51      21329464    97.72
-replaceNonIntegerFacets      1        1    0.002     1.49        409880     1.88
+VerticesAndRays        1        1    0.266    98.15      21344184    97.72
+replaceNonIntegerFacets      1        1    0.004     1.48        409936     1.88
+IntegerHull            1        1    0.001     0.37         35288     0.16
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      1        1    0.000     0.00           944     0.00
 FacetIntegerHull       0        0    0.000     0.00             0     0.00
-IntegerHull2D          1        1    0.000     0.00         36064     0.17
-IntegerHull            1        1    0.000     0.00         35288     0.16
-ConvexHull             1        1    0.000     0.00         15512     0.07
+IntegerHull2D          1        1    0.000     0.00         36176     0.17
+ConvexHull             1        1    0.000     0.00         15376     0.07
 ---------------------------------------------------------------------------
-total:                 6        6    0.134   100.00      21827152   100.00
+total:                 6        6    0.271   100.00      21841904   100.00
 --
-     "oldmethod time for", "Input/truncated_dodecahefron_dual", "is", 7.872
+    "oldmethod time for", "Input/truncated_dodecahefron_dual", "is", 14.911
 
 function           depth    calls     time    time%         bytes   bytes%
 ---------------------------------------------------------------------------
-VerticesAndRays        1        3    7.391     0.00    1315939720     0.00
-FacetIntegerHull       2        2    0.481     0.00      87482960     0.00
+VerticesAndRays        1        3   13.971    93.69    1313857544    93.66
+FacetIntegerHull       2        2    0.940     6.30      88820624     6.33
+IntegerHull            1        1    0.001     0.01        123008     0.01
 triangle_convex_hull      0        0    0.000     0.00             0     0.00
 replaceRationalVertices      0        0    0.000     0.00             0     0.00
 replaceNonIntegerFacets      0        0    0.000     0.00             0     0.00
 IntegerHull2D          0        0    0.000     0.00             0     0.00
-IntegerHull            1        1    0.000     0.00         91320     0.00
-ConvexHull             0        1   -7.872     0.00   -1403514000     0.00
+ConvexHull             0        0    0.000     0.00             0     0.00
 ---------------------------------------------------------------------------
-total:                 4        7    0.000     0.00             0     0.00
---
+total:                 4        6   14.912   100.00    1402801176   100.00
